@@ -1,1 +1,1 @@
-deteto_chudo Server 0
+deteto_chudo Server for test techologies!
